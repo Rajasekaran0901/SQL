@@ -1,4 +1,3 @@
-
 # 📊 SQL Learning Repository
 
 ![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=mysql&logoColor=white)
