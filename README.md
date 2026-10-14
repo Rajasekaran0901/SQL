@@ -285,7 +285,7 @@ Through this repository, I am developing the ability to:
 
 **GitHub:** [Rajasekaran0901](https://github.com/Rajasekaran0901)
 
-**LinkedIn:** Add your LinkedIn profile URL here.
+**LinkedIn:** [Rajasekaran S](https://www.linkedin.com/in/rajasekaran-s-developer/)
 
 ## ⭐ Support
 
